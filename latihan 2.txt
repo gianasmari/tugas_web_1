@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Data Customer</title>
+  </head>
+  <body>
+    <form>
+      <table border="1">
+        <tr>
+          <td>No. </td>
+          <td>Customer No.</td>
+          <td>Nama Lengkap</td>
+          <td>>Email</td>
+          <td>total pengeluaran</td>
+        </tr>
+        <tr>
+          <td>1 </td>
+          <td>1253</td>
+          <td>dimas</td>
+          <td>dimas@gmail.id</td>
+          <td>3.200.000</td>
+        </tr>
+        <tr>
+          <td>2 </td>
+          <td>1524</td>
+          <td>yahu suki</td>
+          <td>yahu@gmail.id</td>
+          <td>3.250.000</td>
+        </tr>
+        <tr>
+          <td>3 </td>
+          <td>1243</td>
+          <td>surya nati</td>
+          <td>surya@gmail.com</td>
+          <td>4.500.000</td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
